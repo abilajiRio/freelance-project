@@ -3,4 +3,5 @@ project resolusi
 -mengambil project freelance
 -membuat kantor
 -mempunyai 200 karyawan
--punya kantor 5 lantai
+-membuka 40 cabang
+
